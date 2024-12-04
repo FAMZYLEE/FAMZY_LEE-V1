@@ -1,0 +1,3088 @@
+{
+  "users": {
+    "6285643241592@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285643241592@s.whatsapp.net",
+      "limit": 50000,
+      "premium": false
+    },
+    "2348127187030@s.whatsapp.net": {
+      "registered": true,
+      "nick": "famzymdbotz",
+      "limit": 1022,
+      "age": 18,
+      "sn": "FAMZY-LEE-XxfPzLwadh",
+      "afkTime": -1,
+      "regTime": 1731406316422,
+      "lastclaim": 1731722005999
+    },
+    "2348127187030@s.whatsapp.net": {
+      "registered": true,
+      "nick": "famzylee",
+      "limit": 26,
+      "premium": "true",
+      "age": 18,
+      "sn": "FAMZY-LEE-3pboUUtvGF",
+      "afkTime": -1,
+      "afkReason": "",
+      "lastclaim": 1731722005798,
+      "regTime": 1731847842862
+    },
+    "120363308894748175@newsletter": {
+      "registered": false,
+      "nick": "120363308894748175@newsletter",
+      "limit": 50,
+      "premium": false,
+      "age": 0,
+      "sn": 0,
+      "afkTime": -1,
+      "lastclaim": 1731724467047,
+      "regTime": -1
+    },
+    "6285727869355@s.whatsapp.net": {
+      "registered": true,
+      "nick": "raf",
+      "limit": 1043,
+      "premium": false,
+      "age": 15,
+      "sn": "rafa",
+      "afkTime": -1,
+      "afkReason": "",
+      "lastclaim": 1731725931420,
+      "regTime": -1
+    },
+    "120363170957151564@newsletter": {
+      "registered": false,
+      "nick": "120363170957151564@newsletter",
+      "limit": 50,
+      "premium": false,
+      "age": 0,
+      "sn": 0,
+      "afkTime": -1,
+      "lastclaim": 1731724336011,
+      "regTime": -1
+    },
+    "120363274587556001@newsletter": {
+      "registered": false,
+      "nick": "120363274587556001@newsletter",
+      "limit": 50,
+      "premium": false,
+      "age": 0,
+      "sn": 0,
+      "afkTime": -1
+    },
+    "6282199591491@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282199591491@s.whatsapp.net",
+      "limit": 50,
+      "premium": false,
+      "age": 0,
+      "sn": 0
+    },
+    "6283152089542@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283152089542@s.whatsapp.net",
+      "limit": 50,
+      "premium": false,
+      "age": 0,
+      "sn": 0,
+      "afkTime": -1
+    },
+    "6285708031140@s.whatsapp.net": {
+      "registered": true,
+      "nick": "bulava",
+      "limit": 70,
+      "premium": false,
+      "age": 14,
+      "sn": "Famzy-LEE-uh87X9XJH9",
+      "afkTime": -1,
+      "regTime": 1731417191769,
+      "afkReason": "",
+      "lastclaim": 1731733945256
+    },
+    "6285817893965@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285817893965@s.whatsapp.net",
+      "limit": 50,
+      "premium": false,
+      "age": 0,
+      "sn": 0,
+      "afkTime": -1,
+      "lastclaim": 1731761946257,
+      "regTime": -1
+    },
+    "65172152570061@lid": {
+      "registered": false,
+      "nick": "65172152570061@lid",
+      "limit": 50,
+      "premium": "false"
+    },
+    "6283893486947@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283893486947@s.whatsapp.net",
+      "limit": 50,
+      "premium": false,
+      "age": 0,
+      "sn": 0,
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "62859176752372@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62859176752372@s.whatsapp.net",
+      "limit": 50,
+      "premium": false
+    },
+    "6282171840671@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282171840671@s.whatsapp.net",
+      "limit": 50,
+      "premium": false,
+      "age": 0,
+      "sn": 0,
+      "afkTime": -1
+    },
+    "62856432415923@s.whatsapp.net": {
+      "registered": true,
+      "nick": "famzy",
+      "age": 18,
+      "limit": 66,
+      "premium": false,
+      "sn": "FAMZY-LEE-4wsO65y8k2",
+      "afkTime": -1,
+      "regTime": 1731418809227,
+      "lastclaim": 1731757162747
+    },
+    "6285645328196@s.whatsapp.net": {
+      "registered": true,
+      "nick": "far",
+      "age": 9,
+      "sn": "FAMZY-LEE-67vECCxHFS",
+      "limit": 8,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "regTime": 1731581885756,
+      "lastclaim": 1731729090698
+    },
+    "6285378751368@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285378751368@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "62895602512828@s.whatsapp.net": {
+      "registered": true,
+      "nick": "rafa",
+      "age": 40,
+      "sn": "qrpGQguAmM",
+      "limit": 35,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "lastclaim": 1731727317622,
+      "regTime": -1
+    },
+    "6289528168286@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6289528168286@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6281549219392@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281549219392@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731729020963,
+      "regTime": -1
+    },
+    "116956757815444@lid": {
+      "registered": false,
+      "nick": "116956757815444@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false"
+    },
+    "259605120692472@lid": {
+      "registered": false,
+      "nick": "259605120692472@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731808265834,
+      "regTime": -1
+    },
+    "6282114357383@s.whatsapp.net": {
+      "registered": true,
+      "nick": "dirgha",
+      "age": 14,
+      "sn": "CLrFfcB^Ux",
+      "limit": 28,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "lastclaim": 1731730507294,
+      "regTime": -1
+    },
+    "280088172089521@lid": {
+      "registered": false,
+      "nick": "280088172089521@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6285215971953@s.whatsapp.net": {
+      "registered": true,
+      "nick": "Luis",
+      "age": 17,
+      "sn": "p0X^^C7EyX",
+      "limit": 30,
+      "premium": false
+    },
+    "6285692808085@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285692808085@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731773114391,
+      "regTime": -1
+    },
+    "52072686833878@lid": {
+      "registered": false,
+      "nick": "52072686833878@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "280599273205888@lid": {
+      "registered": false,
+      "nick": "280599273205888@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6289660138359@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6289660138359@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "119438997233895@lid": {
+      "registered": false,
+      "nick": "119438997233895@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731818587438,
+      "regTime": -1
+    },
+    "6287819474015@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287819474015@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6288215008475@s.whatsapp.net": {
+      "registered": true,
+      "nick": "Fakhry",
+      "age": 11,
+      "sn": "jU&@dIf0Tx",
+      "limit": 30,
+      "premium": false
+    },
+    "6285343531272@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285343531272@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "74917533982892@lid": {
+      "registered": false,
+      "nick": "74917533982892@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "211544889647304@lid": {
+      "registered": false,
+      "nick": "211544889647304@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731808901433,
+      "regTime": -1
+    },
+    "6281371537192@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281371537192@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6283143087509@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283143087509@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6283165973911@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283165973911@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6288279181071@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6288279181071@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "62895385079413@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895385079413@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false"
+    },
+    "62895804200220@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895804200220@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6282393388044@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282393388044@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6283141470039@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283141470039@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false"
+    },
+    "6287726555205@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287726555205@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6287722445350@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287722445350@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6283804806518@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283804806518@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "62882021708953@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62882021708953@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "601151705970@s.whatsapp.net": {
+      "registered": false,
+      "nick": "601151705970@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731768632810,
+      "regTime": -1
+    },
+    "6281324816760@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281324816760@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6282223110798@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282223110798@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6281585730689@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281585730689@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false"
+    },
+    "6289516147500@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6289516147500@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "62895383149239@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895383149239@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "62881023426093@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62881023426093@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6281378757908@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281378757908@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6288905870162@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6288905870162@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731734605237
+    },
+    "6282269934485@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282269934485@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false"
+    },
+    "192238457979089@lid": {
+      "registered": false,
+      "nick": "192238457979089@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731814666306,
+      "regTime": -1
+    },
+    "55779193286827@lid": {
+      "registered": false,
+      "nick": "55779193286827@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false"
+    },
+    "6283821032728@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283821032728@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6285783032115@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285783032115@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6285654147927@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285654147927@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731810184920,
+      "regTime": -1
+    },
+    "62895611561746@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895611561746@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "628981320101@s.whatsapp.net": {
+      "registered": false,
+      "nick": "628981320101@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6283137350964@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283137350964@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731812195721,
+      "regTime": -1
+    },
+    "6282335579195@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282335579195@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6281932849327@s.whatsapp.net": {
+      "registered": true,
+      "nick": "BILL",
+      "age": 2999,
+      "sn": "c^%DA64Ni8",
+      "limit": 30,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281226679921@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281226679921@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6285600471396@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285600471396@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6282246569871@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282246569871@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6285755947842@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285755947842@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6285787561795@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285787561795@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false"
+    },
+    "6282256953464@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282256953464@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false
+    },
+    "6282275414901@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282275414901@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731842889915,
+      "regTime": -1
+    },
+    "6282131515312@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282131515312@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false"
+    },
+    "6289630172885@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6289630172885@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false"
+    },
+    "62882000502719@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62882000502719@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false"
+    },
+    "601155582335@s.whatsapp.net": {
+      "registered": false,
+      "nick": "601155582335@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false"
+    },
+    "628875006597@s.whatsapp.net": {
+      "registered": false,
+      "nick": "628875006597@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6283181892362@s.whatsapp.net": {
+      "registered": true,
+      "nick": "Michael",
+      "age": 16,
+      "sn": "FAMZY-LEE-s9TYFyRiAC",
+      "limit": 22,
+      "premium": false,
+      "afkTime": -1,
+      "regTime": 1731405726124,
+      "lastclaim": 1731728854866,
+      "afkReason": ""
+    },
+    "60128200414@s.whatsapp.net": {
+      "registered": false,
+      "nick": "60128200414@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6285397797896@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285397797896@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6285658209721@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285658209721@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6287831953385@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287831953385@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6283110481286@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283110481286@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6285941380144@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285941380144@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6283821714845@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283821714845@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6281398961382@s.whatsapp.net": {
+      "registered": true,
+      "nick": "sxklz",
+      "age": 50,
+      "sn": "FAMZY-LEE-XWeOytETDd",
+      "limit": 28,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731741866622
+    },
+    "6285821841518@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285821841518@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "628973843499@s.whatsapp.net": {
+      "registered": false,
+      "nick": "628973843499@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6285262173873@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285262173873@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "62895326881381@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895326881381@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "62895341493964@s.whatsapp.net": {
+      "registered": true,
+      "nick": "yanuar",
+      "age": 14,
+      "sn": "FAMZY-LEE-WSbA0D8FGH",
+      "limit": 23,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731753014113
+    },
+    "6285141550193@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285141550193@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6283194671800@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283194671800@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6285779155783@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285779155783@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6282232333826@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282232333826@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "62895321966109@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895321966109@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6281563102009@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281563102009@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6281910095814@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281910095814@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6287862155916@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287862155916@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6287798362716@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287798362716@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6281553664697@s.whatsapp.net": {
+      "registered": true,
+      "nick": "Farr",
+      "age": 14,
+      "sn": "FAMZY-LEE-zMcfJnkXpj",
+      "limit": 28,
+      "premium": false,
+      "afkTime": -1,
+      "regTime": 1731417353693
+    },
+    "6281234538260@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281234538260@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "30713780908266@lid": {
+      "registered": false,
+      "nick": "30713780908266@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6287852433104@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287852433104@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731741211316,
+      "regTime": -1
+    },
+    "62895391492849@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895391492849@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281288718806@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281288718806@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6282214109576@s.whatsapp.net": {
+      "registered": true,
+      "nick": "Dilzz",
+      "age": 17,
+      "sn": "FAMZY-LEE-yh778xDRsg",
+      "limit": 29,
+      "premium": false,
+      "afkTime": -1,
+      "regTime": 1731496471082
+    },
+    "6281257441580@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281257441580@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "62895326230608@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895326230608@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6282319184230@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282319184230@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6282340989056@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282340989056@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "200884210368517@lid": {
+      "registered": false,
+      "nick": "200884210368517@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6282315514965@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282315514965@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6283821123960@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283821123960@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "2757822013680@lid": {
+      "registered": false,
+      "nick": "2757822013680@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "84224812027995@lid": {
+      "registered": false,
+      "nick": "84224812027995@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6282130709227@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282130709227@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "628811223344@s.whatsapp.net": {
+      "registered": false,
+      "nick": "628811223344@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6281367966433@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281367966433@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "66962130137@s.whatsapp.net": {
+      "registered": true,
+      "nick": "hamz",
+      "age": 18,
+      "sn": "FAMZY-LEE-f97TbRFkxz",
+      "limit": 29,
+      "premium": false,
+      "afkTime": -1,
+      "regTime": 1731515905226
+    },
+    "6285855623140@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285855623140@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6281615527321@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281615527321@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "601126006282@s.whatsapp.net": {
+      "registered": true,
+      "nick": "Therry",
+      "age": 21,
+      "sn": "FAMZY-LEE-jgAAPO5RkZ",
+      "limit": 30,
+      "premium": false,
+      "afkTime": -1,
+      "regTime": 1731575005721,
+      "lastclaim": 1731724354641
+    },
+    "6281234040557@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281234040557@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731763726527,
+      "regTime": -1
+    },
+    "6288294320027@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6288294320027@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6283894014456@s.whatsapp.net": {
+      "registered": true,
+      "nick": "Iky",
+      "age": 16,
+      "sn": "FAMZY-LEE-KNWWaGVwlj",
+      "limit": 30,
+      "premium": false,
+      "afkTime": -1,
+      "regTime": 1731587496077,
+      "afkReason": "",
+      "lastclaim": 1731734177973
+    },
+    "6283167805226@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283167805226@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6283835969186@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283835969186@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6282328249195@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282328249195@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731753363113
+    },
+    "6285927217404@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285927217404@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731726624764,
+      "regTime": -1
+    },
+    "6282352854096@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282352854096@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731767149183,
+      "regTime": -1
+    },
+    "6287868444151@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287868444151@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "62882006304316@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62882006304316@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "923178544670@s.whatsapp.net": {
+      "registered": false,
+      "nick": "923178544670@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "60146272675@s.whatsapp.net": {
+      "registered": false,
+      "nick": "60146272675@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6283136220353@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283136220353@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6287790367099@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287790367099@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731758227698,
+      "regTime": -1
+    },
+    "6289507844777@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6289507844777@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731847251970,
+      "regTime": -1
+    },
+    "62895352086486@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895352086486@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731727863658
+    },
+    "601126870233@s.whatsapp.net": {
+      "registered": false,
+      "nick": "601126870233@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731731731944
+    },
+    "6281292013615@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281292013615@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731736589858,
+      "regTime": -1
+    },
+    "6285183009926@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285183009926@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731750654498,
+      "regTime": -1
+    },
+    "6282237617408@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282237617408@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731749631429,
+      "regTime": -1
+    },
+    "6282276712625@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282276712625@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731734020536,
+      "regTime": -1
+    },
+    "6285762717829@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285762717829@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731756816207
+    },
+    "6281228599963@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281228599963@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731723169835,
+      "regTime": -1
+    },
+    "6281351692548@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281351692548@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731826262807,
+      "regTime": -1
+    },
+    "6283825946836@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283825946836@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731761394738,
+      "regTime": -1
+    },
+    "6281936051615@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281936051615@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731769456980,
+      "regTime": -1
+    },
+    "6283194561177@s.whatsapp.net": {
+      "registered": true,
+      "nick": "Zaxin",
+      "age": 15,
+      "sn": "FAMZY-LEE-dY0KnVqLEE",
+      "limit": 30,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731724376902,
+      "regTime": 1731763852683
+    },
+    "6283861699449@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283861699449@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731722529546,
+      "regTime": -1
+    },
+    "6285389454230@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285389454230@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6289526277516@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6289526277516@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731723109255,
+      "regTime": -1
+    },
+    "60168874254@s.whatsapp.net": {
+      "registered": false,
+      "nick": "60168874254@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6287897108158@s.whatsapp.net": {
+      "registered": true,
+      "nick": "jomok",
+      "age": 17,
+      "sn": "FAMZY-LEE-gsHWsbaE25",
+      "limit": 30,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731724161452,
+      "regTime": 1731764411977
+    },
+    "6281213688173@s.whatsapp.net": {
+      "registered": true,
+      "nick": "zuyz",
+      "age": 18,
+      "sn": "FAMZY-LEE-5jbOI6xeX0",
+      "limit": 19,
+      "premium": false,
+      "afkTime": -1,
+      "regTime": 1731681789807,
+      "lastclaim": 1731723382409
+    },
+    "6289668698086@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6289668698086@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731723812388,
+      "regTime": -1
+    },
+    "628812546880@s.whatsapp.net": {
+      "registered": false,
+      "nick": "628812546880@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731738641378,
+      "regTime": -1
+    },
+    "6283836851004@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283836851004@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731794529797,
+      "regTime": -1
+    },
+    "6285641666166@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285641666166@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731752290379
+    },
+    "6285150614840@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285150614840@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731751282573,
+      "regTime": -1
+    },
+    "6283179922444@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283179922444@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6281349282920@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281349282920@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "6282162738360@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282162738360@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731724203039
+    },
+    "6285810046875@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285810046875@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6287828136379@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287828136379@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731773162487,
+      "regTime": -1
+    },
+    "6283121950651@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283121950651@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6285876968650@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285876968650@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6282313927828@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282313927828@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "62895352144500@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895352144500@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731801685895,
+      "regTime": -1
+    },
+    "6285361395508@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285361395508@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731745783537,
+      "regTime": -1
+    },
+    "6283185268375@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283185268375@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731723390037,
+      "regTime": -1
+    },
+    "6281239877025@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281239877025@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731746856592
+    },
+    "60149403395@s.whatsapp.net": {
+      "registered": false,
+      "nick": "60149403395@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731745172129,
+      "regTime": -1
+    },
+    "6282177527311@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282177527311@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1
+    },
+    "6282199844493@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282199844493@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731762221535
+    },
+    "6289512197039@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6289512197039@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731731722181
+    },
+    "12331186692234@lid": {
+      "registered": false,
+      "nick": "12331186692234@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731722593369
+    },
+    "6285655820957@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285655820957@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731745126655
+    },
+    "6283818313092@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283818313092@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731744729685,
+      "regTime": -1
+    },
+    "6289636760186@s.whatsapp.net": {
+      "registered": true,
+      "nick": "kayzee",
+      "age": 18,
+      "sn": "FAMZY-LEE-mwBMYd1x1J",
+      "limit": 30,
+      "premium": false,
+      "afkTime": -1,
+      "regTime": 1731701534932
+    },
+    "6282280525619@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282280525619@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1
+    },
+    "106931968553056@lid": {
+      "registered": false,
+      "nick": "106931968553056@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731828318189,
+      "regTime": -1
+    },
+    "6287848464450@s.whatsapp.net": {
+      "registered": true,
+      "nick": "dimas",
+      "age": 18,
+      "sn": "FAMZY-LEE-jPoRsdMWiA",
+      "limit": 30,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731722332525,
+      "regTime": 1731722343169
+    },
+    "6281229034969@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281229034969@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731723735649,
+      "regTime": -1
+    },
+    "6285967177281@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285967177281@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731724070751,
+      "regTime": -1
+    },
+    "6287846877053@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287846877053@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731724096244,
+      "regTime": -1
+    },
+    "60169433327@s.whatsapp.net": {
+      "registered": false,
+      "nick": "60169433327@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731724386330
+    },
+    "60198734109@s.whatsapp.net": {
+      "registered": false,
+      "nick": "60198734109@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731727917443,
+      "regTime": -1
+    },
+    "207395515068598@lid": {
+      "registered": false,
+      "nick": "207395515068598@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731728315342
+    },
+    "628153049763@s.whatsapp.net": {
+      "registered": false,
+      "nick": "628153049763@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731733941757,
+      "regTime": -1
+    },
+    "204629488967813@lid": {
+      "registered": false,
+      "nick": "204629488967813@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731734423754
+    },
+    "6285729418854@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285729418854@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731735243311
+    },
+    "118858992091342@lid": {
+      "registered": false,
+      "nick": "118858992091342@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731738068114
+    },
+    "6285343951965@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285343951965@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731740599228
+    },
+    "62895342366228@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895342366228@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731740675811
+    },
+    "6282384822223@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282384822223@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731741072304
+    },
+    "6282144344269@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282144344269@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731741407855,
+      "regTime": -1
+    },
+    "6287737042415@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287737042415@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731741540061
+    },
+    "6283177880105@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283177880105@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731742281880
+    },
+    "6289514003707@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6289514003707@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731742811114
+    },
+    "6285845894967@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285845894967@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731744628685,
+      "regTime": -1
+    },
+    "187729228873816@lid": {
+      "registered": false,
+      "nick": "187729228873816@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731744772611
+    },
+    "242910985474284@lid": {
+      "registered": false,
+      "nick": "242910985474284@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731744782168
+    },
+    "28476102959336@lid": {
+      "registered": false,
+      "nick": "28476102959336@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731744837751,
+      "regTime": -1
+    },
+    "152531703447569@lid": {
+      "registered": false,
+      "nick": "152531703447569@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731744841948
+    },
+    "245852736082093@lid": {
+      "registered": false,
+      "nick": "245852736082093@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731744848051
+    },
+    "136859216789727@lid": {
+      "registered": false,
+      "nick": "136859216789727@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731744855565
+    },
+    "155447969472676@lid": {
+      "registered": false,
+      "nick": "155447969472676@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731744867917
+    },
+    "158153815674883@lid": {
+      "registered": false,
+      "nick": "158153815674883@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731745074212
+    },
+    "6281575733341@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281575733341@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731745164679
+    },
+    "601129518036@s.whatsapp.net": {
+      "registered": false,
+      "nick": "601129518036@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731745200308,
+      "regTime": -1
+    },
+    "64261334290547@lid": {
+      "registered": false,
+      "nick": "64261334290547@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731745204803
+    },
+    "185332452581486@lid": {
+      "registered": false,
+      "nick": "185332452581486@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731745291029,
+      "regTime": -1
+    },
+    "208825940459672@lid": {
+      "registered": false,
+      "nick": "208825940459672@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731745297318
+    },
+    "264523042816154@lid": {
+      "registered": false,
+      "nick": "264523042816154@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731745580254
+    },
+    "6285816687335@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285816687335@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731746010839
+    },
+    "129648352587902@lid": {
+      "registered": false,
+      "nick": "129648352587902@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731746090671
+    },
+    "66112884596874@lid": {
+      "registered": false,
+      "nick": "66112884596874@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731748758968
+    },
+    "6281297700544@s.whatsapp.net": {
+      "registered": true,
+      "nick": "Dré",
+      "age": 15,
+      "sn": "FAMZY-LEE-ojpywGX5EI",
+      "limit": 29,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731748797373,
+      "regTime": 1731760987001
+    },
+    "137125940985959@lid": {
+      "registered": false,
+      "nick": "137125940985959@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731749476340
+    },
+    "6285607109414@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285607109414@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731750662795
+    },
+    "82424969064449@lid": {
+      "registered": false,
+      "nick": "82424969064449@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731750815399
+    },
+    "6285755545228@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285755545228@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731751305684
+    },
+    "6285643806248@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285643806248@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731752466159,
+      "regTime": -1
+    },
+    "6285339984748@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285339984748@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731752497378
+    },
+    "239998511140874@lid": {
+      "registered": false,
+      "nick": "239998511140874@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731752916191
+    },
+    "6288905424316@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6288905424316@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731753137926
+    },
+    "6288706866961@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6288706866961@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731754120677,
+      "regTime": -1
+    },
+    "6283117139198@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283117139198@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731756435996
+    },
+    "6283188789378@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283188789378@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731756818007
+    },
+    "142623448793284@lid": {
+      "registered": false,
+      "nick": "142623448793284@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731757226559
+    },
+    "162676651077805@lid": {
+      "registered": false,
+      "nick": "162676651077805@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731757930296
+    },
+    "6283132556084@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283132556084@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731758093207,
+      "regTime": -1
+    },
+    "6285771418603@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285771418603@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731758933324
+    },
+    "6288246041698@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6288246041698@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731759690525,
+      "regTime": -1
+    },
+    "6282213551167@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282213551167@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731760739857,
+      "regTime": -1
+    },
+    "275032861343943@lid": {
+      "registered": false,
+      "nick": "275032861343943@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731766906387,
+      "regTime": -1
+    },
+    "6285179812799@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285179812799@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731768631419,
+      "regTime": -1
+    },
+    "6285892079841@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285892079841@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731768952466,
+      "regTime": -1
+    },
+    "6285706025645@s.whatsapp.net": {
+      "registered": true,
+      "nick": "stevan",
+      "age": 16,
+      "sn": "FAMZY-LEE-KvCW9sV3op",
+      "limit": 30,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731770293136,
+      "regTime": 1731772389167
+    },
+    "6283119371033@s.whatsapp.net": {
+      "registered": true,
+      "nick": "kiryu",
+      "age": 17,
+      "sn": "FAMZY-LEE-qCLq3VNJe2",
+      "limit": 30,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731771275457,
+      "regTime": 1731771346240
+    },
+    "6285213435348@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285213435348@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731772952521,
+      "regTime": -1
+    },
+    "6287829418915@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287829418915@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731773258818,
+      "regTime": -1
+    },
+    "125576388055154@lid": {
+      "registered": false,
+      "nick": "125576388055154@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731773543221,
+      "regTime": -1
+    },
+    "6285262101393@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285262101393@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731777265188,
+      "regTime": -1
+    },
+    "6285758262719@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285758262719@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731779802595,
+      "regTime": -1
+    },
+    "62895342255947@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895342255947@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731782453998,
+      "regTime": -1
+    },
+    "6289512702524@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6289512702524@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731783973119,
+      "regTime": -1
+    },
+    "6282181769930@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6282181769930@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731794165692,
+      "regTime": -1
+    },
+    "62881012819761@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62881012819761@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731801008979,
+      "regTime": -1
+    },
+    "6283892255094@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283892255094@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731801971334,
+      "regTime": -1
+    },
+    "6285231322661@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285231322661@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731806930631,
+      "regTime": -1
+    },
+    "25757338325214@lid": {
+      "registered": false,
+      "nick": "25757338325214@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731808249445,
+      "regTime": -1
+    },
+    "42095461048540@lid": {
+      "registered": false,
+      "nick": "42095461048540@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731808259789,
+      "regTime": -1
+    },
+    "121517727871171@lid": {
+      "registered": false,
+      "nick": "121517727871171@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731808280087,
+      "regTime": -1
+    },
+    "131516646564003@lid": {
+      "registered": false,
+      "nick": "131516646564003@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731808281687,
+      "regTime": -1
+    },
+    "215444770287678@lid": {
+      "registered": false,
+      "nick": "215444770287678@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731808294489,
+      "regTime": -1
+    },
+    "132293649760466@lid": {
+      "registered": false,
+      "nick": "132293649760466@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731808448966,
+      "regTime": -1
+    },
+    "157548342726904@lid": {
+      "registered": false,
+      "nick": "157548342726904@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731808964955,
+      "regTime": -1
+    },
+    "217158126706771@lid": {
+      "registered": false,
+      "nick": "217158126706771@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731810529936,
+      "regTime": -1
+    },
+    "223041963483375@lid": {
+      "registered": false,
+      "nick": "223041963483375@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731811058502,
+      "regTime": -1
+    },
+    "202521062699136@lid": {
+      "registered": false,
+      "nick": "202521062699136@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731811148212,
+      "regTime": -1
+    },
+    "166533347172554@lid": {
+      "registered": false,
+      "nick": "166533347172554@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731811580523,
+      "regTime": -1
+    },
+    "158012350165082@lid": {
+      "registered": false,
+      "nick": "158012350165082@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731811847431,
+      "regTime": -1
+    },
+    "248069190877265@lid": {
+      "registered": false,
+      "nick": "248069190877265@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731812180346,
+      "regTime": -1
+    },
+    "261713949671485@lid": {
+      "registered": false,
+      "nick": "261713949671485@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731812395357,
+      "regTime": -1
+    },
+    "249946024464571@lid": {
+      "registered": false,
+      "nick": "249946024464571@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731812966711,
+      "regTime": -1
+    },
+    "62895625310906@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895625310906@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731815764206,
+      "regTime": -1
+    },
+    "22257007128647@lid": {
+      "registered": false,
+      "nick": "22257007128647@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731816587129,
+      "regTime": -1
+    },
+    "132156412190828@lid": {
+      "registered": false,
+      "nick": "132156412190828@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731817107156,
+      "regTime": -1
+    },
+    "86750135357654@lid": {
+      "registered": false,
+      "nick": "86750135357654@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731817376820,
+      "regTime": -1
+    },
+    "60178960933@s.whatsapp.net": {
+      "registered": false,
+      "nick": "60178960933@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731817812650,
+      "regTime": -1
+    },
+    "43860625506479@lid": {
+      "registered": false,
+      "nick": "43860625506479@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731825666324,
+      "regTime": -1
+    },
+    "62895410403078@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62895410403078@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731826756263,
+      "regTime": -1
+    },
+    "227861436829770@lid": {
+      "registered": false,
+      "nick": "227861436829770@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731828192552,
+      "regTime": -1
+    },
+    "6285703155153@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285703155153@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731830191869,
+      "regTime": -1
+    },
+    "265386331234473@lid": {
+      "registered": false,
+      "nick": "265386331234473@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731831252915,
+      "regTime": -1
+    },
+    "62882008961541@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62882008961541@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731835087271,
+      "regTime": -1
+    },
+    "6289509386461@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6289509386461@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731844186140,
+      "regTime": -1
+    },
+    "6281278413732@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281278413732@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731846001225,
+      "regTime": -1
+    },
+    "25112707379248@lid": {
+      "registered": false,
+      "nick": "25112707379248@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731846046704,
+      "regTime": -1
+    },
+    "186075616157898@lid": {
+      "registered": false,
+      "nick": "186075616157898@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1731846496595,
+      "regTime": -1
+    },
+    "13297789181962@lid": {
+      "registered": false,
+      "nick": "13297789181962@lid",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1731847317374,
+      "regTime": -1
+    }
+  },
+  "chats": {
+    "6285643241592@s.whatsapp.net": {},
+    "6289668164759@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363308894748175@newsletter": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363318804401056@g.us": {
+      "luminai": true,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363170957151564@newsletter": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "628816731775@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363274587556001@newsletter": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363333643661390@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": true
+    },
+    "120363317540650642@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "62856432415923@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363229004850858@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "62895385079413@s.whatsapp.net": {
+      "luminai": false
+    },
+    "6282114357383@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6285727869355@s.whatsapp.net": {
+      "luminai": true,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363350728581081@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": true
+    },
+    "6287726555205@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false
+    },
+    "120363315495507467@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": true
+    },
+    "120363336036752230@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6281910095814@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6287862155916@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6287798362716@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6281234538260@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "628811223344@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6281257441580@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "66962130137@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363315358598444@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363295889449031@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": true
+    },
+    "120363263879675202@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363324751294087@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6281213688173@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363299952979808@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": true
+    },
+    "120363366650062534@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363266013092119@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "923178544670@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6287848464450@s.whatsapp.net": {
+      "luminai": true,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363363284606268@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363321230058831@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "120363347800146970@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6285179812799@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6285892079841@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6285706025645@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6283119371033@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "62895342255947@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6289512702524@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6282181769930@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "62881012819761@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    }
+  },
+  "game": {},
+  "database": {},
+  "settings": {
+    "628816731775@s.whatsapp.net": {
+      "autobio": true
+    },
+    "hadiah": [
+      "5505bc9c",
+      "c4613264"
+    ],
+    "hadiahkadaluwarsa": [
+      "75213989",
+      "b6806bcd",
+      "934fa016",
+      "2b59c67d"
+    ]
+  },
+  "setting": {},
+  "others": {},
+  "sticker": {},
+  "message": {}
+}
