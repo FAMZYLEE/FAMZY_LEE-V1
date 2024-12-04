@@ -964,14 +964,15 @@ break
    }
     }
 break
-case 'script': case 'sc': {
-let Rawwwwr = `ᴛʜɪꜱ ꜱᴄʀɪᴘᴛ ᴏᴘ? 20ᴋ ᴅᴏꜱ[ ɴᴏ ᴜᴘᴅᴀᴛᴇ ] ᴏɴʟʏ
+case 'script': case 'sc': case 'repo': {
+let Rawwwwr = `ᴛʜɪꜱ ɪꜱ ᴍʏ ʀᴇᴘᴏ 
+*Name:* FAMZY_LEE-V1
+*Owner:* FAWAZ LEKAN
+*Repo Link:* https://github.com/Famzylee12/FAMZY_LEE-V1
+*ꜱᴄʀɪᴘᴛᴇᴅ ʙʏ ꜰᴀᴡᴀᴢ ʟᴇᴋᴀɴ*
 
 *ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴀꜱᴋ Qᴜᴇꜱᴛɪᴏɴꜱ, ᴘʟᴇᴀꜱᴇ ᴄʜᴀᴛ :*
 > ${owner}
-
-*ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴋɴᴏᴡ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴛʜɪꜱ ʙᴏᴛ :*
-> _https://whatsapp.com/channel/0029VaGHU1tGpLHSGB4IsU3P_
 
 *ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴘʟᴀʏ ᴛʜɪꜱ ʙᴏᴛ :*
 > https://chat.whatsapp.com/BQ2ON2itIIpAQSYUSZrrQL_`
