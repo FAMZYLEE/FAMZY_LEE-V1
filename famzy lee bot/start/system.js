@@ -968,7 +968,7 @@ case 'script': case 'sc': case 'repo': {
 let Rawwwwr = `ᴛʜɪꜱ ɪꜱ ᴍʏ ʀᴇᴘᴏ 
 *Name:* FAMZY_LEE-V1
 *Owner:* FAWAZ LEKAN
-*Repo Link:* https://github.com/Famzylee12/FAMZY_LEE-V1
+*Repo Link:* https://github.com/FAMZYLEE/FAMZY_LEE-V1
 *ꜱᴄʀɪᴘᴛᴇᴅ ʙʏ ꜰᴀᴡᴀᴢ ʟᴇᴋᴀɴ*
 
 *ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴀꜱᴋ Qᴜᴇꜱᴛɪᴏɴꜱ, ᴘʟᴇᴀꜱᴇ ᴄʜᴀᴛ :*
