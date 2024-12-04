@@ -1,6 +1,6 @@
 ## First Project
 Hello friends, this is my first project, please understand if you find any errors, friends✨, don't forget to give stars and follow 🐈‍⬛
-## Thank to those who have helped me ✨
+## Big Thanks To Myself ✨
 
 
 ## How to deploy 
