@@ -1,8 +1,8 @@
 /*
 
-#kiuu
-github : https://github.com/kiuur
-youtube : https://youtube.com/@kyuurzy
+#link
+github : https://github.com/Famzylee12
+youtube : https://youtube.com/@famzzy_lee
 rest api : https://shinoa.us.kg
 
 */
