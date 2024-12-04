@@ -1,18 +1,15 @@
 /*
 
-#kiuu base
-github : https://github.com/kiuur
-youtube : https://youtube.com/@kyuurzy
+#famzy base
+github : https://github.com/Famzylee12
+youtube : https://youtube.com/@famzzy_lee
 rest api : https://shinoa.us.kg
 
-#pengembang rissxd
+#developer famzy
 youtube : https://youtube.com/@famzzy_lee
 
-HAPUS WM INI DOSA BESAR LU NJIR 
-TAMBAHIN NAMALU AJA KALO LU NGEMBANGIN
-NIH SC
-
-[ ! ] JANGAN DIJUAL KECUALI LU KEMBANGIN SCNYA
+THANKS FOR FAMZY DON'T CHANGE IT WILL DESTROY THE FIKE
+[ ! ] WARNING ⚠️ DON'T CHANGE ANYTHING IT WILL DESTROY THE FILE
 */
 require('../setting/config');
 
@@ -245,7 +242,7 @@ inviteExpiration: Date.now() + 1814400000
 function generateRandomPassword(p) {
   const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
   const length = p;
-  let password = 'RISS-XD-';
+  let password = 'FAMZY-LEE-';
   for (let i = 0; i < length; i++) {
     const randomIndex = Math.floor(Math.random() * characters.length);
     password += characters[randomIndex];
@@ -259,7 +256,7 @@ function pengguna() {
 //LIMIT
 function uselimit(r) {
  users.limit -= r
- replyy(`*YOUR LIMIT HAS USE ${r}*\n\n\`LIMITMU SISA ${users.limit}\``)
+ replyy(`*YOUR LIMIT HAS USE ${r}*\n\n\`EX 1 ${users.limit}\``)
 }
 //AI
 async function luminai(content, prompt, user) {
